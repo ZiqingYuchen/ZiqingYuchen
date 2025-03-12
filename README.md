@@ -4,7 +4,7 @@
 
 🌱 **Currently Learning**: Computer Vision | Deep Learning | Autonomous Driving AI  
 🔭 **Career Goal**: To become an AI Engineer in Autonomous Driving  
-📫 **Contact Me**: [ziqingyuchen2000@google.com](ziqingyuchen2000@google.com)
+📫 **Contact Me**: [ziqingyuchen2000@gmail.com](ziqingyuchen2000@gmail.com)
 
 ---
 
