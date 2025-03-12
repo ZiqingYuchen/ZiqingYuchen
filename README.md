@@ -45,7 +45,7 @@
 ---
 
 ## 🤝 Connect with Me
-🔗 **LinkedIn**: [Ziqing Yuchen](www.linkedin.com/in/ziqing-yuchen-2a2991355/)  
+🔗 **LinkedIn**: [Ziqing Yuchen](https://www.linkedin.com/in/ziqing-yuchen-2a2991355/)  
 📧 **Email**: [ziqingyuchen2000@gmail.com](mailto:ziqingyuchen2000@gmail.com)  
 💬 **Let's talk!**  
 
