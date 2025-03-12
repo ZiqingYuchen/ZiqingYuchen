@@ -1,9 +1,9 @@
-<h1 align="center">🚗 Hi, I'm Ziqing Yuchen 👋</h1>
+<h1 align="center">🚗 Hi, I'm Ziqing Yuchen ☺️</h1>
 
-<h3 align="center">A passionate AI engineer focused on autonomous driving</h3>
+<h3 align="center">A passionate Software engineer focused on autonomous driving</h3>
 
-🌱 **Currently Learning**: Computer Vision | Deep Learning | Autonomous Driving AI  
-🔭 **Career Goal**: To become an AI Engineer in Autonomous Driving  
+🌱 **Currently Learning**: Computer Vision | Deep Learning | Autonomous Driving  
+🔭 **Career Goal**: To become a Software Engineer in Autonomous Driving  
 📫 **Contact Me**: [ziqingyuchen2000@gmail.com](ziqingyuchen2000@gmail.com)
 
 ---
@@ -49,9 +49,9 @@
 ---
 
 ## 🤝 Connect with Me
-🔗 **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/yourprofile)  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-💬 **Let's talk AI and Autonomous Driving!**  
+🔗 **LinkedIn**: [Ziqing Yuchen](www.linkedin.com/in/ziqing-yuchen-2a2991355)  
+📧 **Email**: [ziqingyuchen2000@gmail.com](mailto:ziqingyuchen2000@gmail.com)  
+💬 **Let's talk!**  
 
 ---
 
